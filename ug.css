@@ -1,0 +1,166 @@
+body{
+    
+        font: 14px/155% 'Helvetica Neue', Arial, 'Liberation Sans', FreeSans, sans-serif;
+        font-style: normal;
+        font-variant-ligatures: normal;
+        font-variant-caps: normal;
+        font-variant-numeric: normal;
+        font-variant-east-asian: normal;
+        font-weight: normal;
+        font-stretch: normal;
+        
+        line-height: 2 !important;
+}
+
+body li td text{
+    
+    
+    line-height:2!important;
+    
+}
+
+b{
+	color: #000000;
+}
+
+.super-container{
+    display: flex;
+    justify-content: center;
+}
+.main{
+    margin-top: 30px;
+    margin-left: 100px;
+    margin-right: 100px;
+    /*box-shadow: 0 0 10px 0 rgba(0,0,100,0.2);*/
+    padding: 50px; 
+	
+	
+    
+	
+    max-width: 1000px;
+	
+	border: 3px solid #2e5650; 
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: #444; 
+	background-color: #F0F0F0; 
+	box-shadow: 0 0 10px 0 #000000;
+}
+
+.page-title{
+    text-align:center;
+}
+
+.page-title-hr{
+    margin-left: 100px;
+    margin-right: 100px;
+    max-width: 1100px;
+    position: center;
+	background-color: #a1afad;
+	border-bottom-color: #a1afad !important;
+	height: 2px;
+	
+}
+	
+.table{
+    display: flex;
+    justify-self: center;
+}
+
+.customers {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    max-width: 500px;
+    text-align: center;
+    margin: auto;
+	background-color: 
+	#dedede;
+    
+    
+  }
+  
+  .customers td, .customers th {
+    border: 1px solid black;
+    padding: 8px;
+  }
+  
+  
+  .customers th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #dedede;
+    color: white;
+  }
+
+
+  .secondHeader{
+	color: #06264e;
+
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	/*  - CONTENT LEFT - C/P/S  -  */
+	.page-template-template-blog-php .secondary-sidebar {float: right;}
+	.page-template-template-blog-php .sidebar {float: right;}
+
+
+	/*  - CONTENT LEFT - C/P/S  -  */
+	.page-template-default .secondary-sidebar {float: right;}
+	.page-template-default .sidebar {float: right;}
+
+
+
+
+	body{font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;}
+
+
+
+table
+{
+width:100% !important;
+} 
+
+/*---------*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
